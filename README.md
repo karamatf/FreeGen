@@ -1,5 +1,3 @@
-# FreeGen
-
 ## Features
 
 - Account Generator
@@ -13,7 +11,7 @@
 
 ## Picture
 
-http://i.imgur.com/5AuY9Tq.jpg
+[LINK](http://i.imgur.com/5AuY9Tq.jpg)
 
 ## Setup
 
@@ -23,6 +21,10 @@ http://i.imgur.com/5AuY9Tq.jpg
 - Goto [yourdomain]/setup.php     
 
 Follow on screen instructions to finish website setup
+
+## Donations
+
+BTC: 192pY7toABku11xSzghUmqhXAgzYXMRHYV
 
 ## Terms of Service (T.O.S)
 
